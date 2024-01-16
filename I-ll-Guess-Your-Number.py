@@ -1,6 +1,6 @@
 import random
 
-print("I guess your imaginary number!\nPlease anwser with \"yes\" or \"no\".\n")
+print("I guess your imaginary number!\n\nImagine a number from 1 to 100.\nPlease anwser with \"yes\" or \"no\".\n")
 
 input("When you imagine your number, press Enter to start the game!\n")
 
